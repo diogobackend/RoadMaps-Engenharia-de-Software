@@ -32,7 +32,7 @@ Aprenda a transformar problemas em passos lógicos antes de estudar frameworks.
 - Entrada, processamento e saída;
 - sequência de instruções;
 - pseudocódigo;
-- teste de mesa.
+- [teste de mesa](https://www.youtube.com/watch?v=Atcfaafvs4M)
 
 
 ### 1.2 - Variáveis, constantes e tipos de dados
