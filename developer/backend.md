@@ -10,7 +10,7 @@ Roadmap do zero ao nível avançado em backend Java, passando por Spring Boot, b
 
 **Tempo sugerido:** 4 semanas.
 
-**Curso geral:** [Curso Completo de Java do zero ao avançado](https://www.youtube.com/watch?v=mxDMTtCEPAY)
+**Curso geral:** [Curso Completo de Java do zero ao avançado](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL)
 
 
 
