@@ -23,7 +23,7 @@ Aprenda a transformar problemas em passos lógicos antes de estudar frameworks.
 
 **Tempo sugerido:** 4 a 8 horas.
 
-**Aula específica:** [O que é pseudocódigo? Conceito e exemplo](https://www.youtube.com/watch?v=KcSD3r16Pl0)
+**Aula específica:** [O que é pseudocódigo? Conceito e exemplo]([https://www.youtube.com/watch?v=KcSD3r16Pl0](https://www.youtube.com/watch?v=g_xl2osowC0&t=54s))
 
 
 
